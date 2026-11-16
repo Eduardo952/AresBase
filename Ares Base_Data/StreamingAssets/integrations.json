@@ -1,0 +1,19 @@
+{
+  "formulaVersion": "",
+  "NasaBaseUrl": "https://api.nasa.gov",
+  "MarsWeatherBaseUrl": "https://api.maas2.apollorion.com",
+  "ImageLibraryBaseUrl": "https://images-api.nasa.gov",
+  "GroqBaseUrl": "https://api.groq.com/openai/v1/chat/completions",
+  "NasaProxyBaseUrl": "",
+  "GroqProxyBaseUrl": "",
+  "PrivateTrustedBuild": true,
+  "UseLegacyN8n": false,
+  "GroqModel": "openai/gpt-oss-120b",
+  "GroqTemperature": 0.7,
+  "GroqMaxTokens": 1500,
+  "HttpTimeoutSeconds": 10,
+  "FlareTimeoutSeconds": 20,
+  "RetryCount": 2,
+  "CacheFreshSeconds": 86400,
+  "ImageMemoryLimit": 8
+}
